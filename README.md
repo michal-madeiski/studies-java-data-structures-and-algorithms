@@ -1,5 +1,5 @@
 # Data Structures and Algorithms - laboratory classes
-__stage of studies: 1st year 1, 2nd semester__
+__stage of studies: 1st year, 2nd semester__
 
 Each lab class dir contains a fully implementation of the given structure.
 
