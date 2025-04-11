@@ -2,6 +2,7 @@
 __stage of studies: year 1 semester 2__
 
 Each lab class dir contains a fully implementation of the given structure.
+
 * Lab1 - basics of java
 * Lab2 - iterators
 * Lab3 - one-way lists
