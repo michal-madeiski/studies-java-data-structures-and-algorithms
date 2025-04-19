@@ -15,4 +15,4 @@ Each lab class dir contains a fully implementation of the given structure.
 
 _Lab[number] is a one-week homework assignment.<br>_
 _Mod[number] is a live coding task called "modification" by the lab class instructor.<br>_
-_Mods for Lab3 to Lab9 can be found in their dirs or directly in the code (marked wuth a comment)._
+_Mods for Lab3 to Lab9 can be found in their dirs or directly in the code (marked with a comment)._
